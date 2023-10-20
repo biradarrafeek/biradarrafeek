@@ -7,7 +7,7 @@
 </center>
 - 🌱 I’m currently learning ** DSA , Full-Stack Web Development**
 
-- 🌱I'm doing **Front end projects (React js)** projects
+- 🌱I'm doing **Front end (React js)** projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
